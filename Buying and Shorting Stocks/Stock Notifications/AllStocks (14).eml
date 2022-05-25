@@ -1,0 +1,25 @@
+Bcc: venturanotes@gmail.com
+Return-Path: <venturanotes@gmail.com>
+Received: from HP.2202.n116flats.amhr.ma.wtsky.net ([2605:ad80:80:c48:4418:d39c:5552:3ab0])
+        by smtp.gmail.com with ESMTPSA id y7-20020a05620a0e0700b00699a30d6d10sm360915qkm.111.2022.04.28.12.41.48
+        for <venturanotes@gmail.com>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Thu, 28 Apr 2022 12:41:49 -0700 (PDT)
+Message-ID: <626aedfd.1c69fb81.de1b.2fab@mx.google.com>
+Date: Thu, 28 Apr 2022 12:41:49 -0700 (PDT)
+From: venturanotes@gmail.com
+Subject: AllStocks
+
+Buy ['AAU', 'CETX', 'MDVL', 'MICT', 'PIXY'] stocks with an R-squared value of 0.65762.
+The balance rose to $1179.34 over 50 days starting from $300 giving a 293.11% increase.
+The decimal sequence was [0, 1, -6, -7, -2, 4, 3, 1, 0, 4, 5, 2, -2, -5, -2, 0, -3, 4, 6, 2].
+The binary sequence was [0, 1, 0, 0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1].
+The maximum number of companies you could buy stocks from was 9.
+The groupings was 9.
+
+Short ['CRXT'] stocks with an R-squared value of 0.79178.
+The balance dropped to $125.82 over 50 days starting from $300 giving a 58.06% decrease.
+The decimal sequence was [-3, 0, 2, -7, 6, 4, 0, 5, 1, 0, -3, -5, 0, -2, 4, 7, -6, -5, -2, 4].
+The binary sequence was [0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 1].
+The maximum number of companies you could buy stocks from was 6.
+The groupings was 10.

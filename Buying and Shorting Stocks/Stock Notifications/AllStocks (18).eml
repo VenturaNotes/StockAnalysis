@@ -1,0 +1,27 @@
+Bcc: venturanotes@gmail.com
+Return-Path: <venturanotes@gmail.com>
+Received: from HP.2202.n116flats.amhr.ma.wtsky.net ([2605:ad80:80:c48:a818:330d:3fbc:ea9c])
+        by smtp.gmail.com with ESMTPSA id b25-20020a05620a127900b0069fc13ce1f6sm7833839qkl.39.2022.05.04.12.35.35
+        for <venturanotes@gmail.com>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Wed, 04 May 2022 12:35:35 -0700 (PDT)
+Message-ID: <6272d587.1c69fb81.d18b6.7c59@mx.google.com>
+Date: Wed, 04 May 2022 12:35:35 -0700 (PDT)
+From: venturanotes@gmail.com
+Subject: AllStocks
+
+Buy ['GTH', 'PAVM', 'VTYX'] stocks with an R-squared value of 0.66891.
+The balance rose to $373.16 over 50 days starting from $300 giving a 24.39% increase.
+The decimal sequence was [1, -2, 0, 0, -7, -1, 5, -3, 1, 7, 0, 7, 7, -6, -2, 4, -3, -3, 2, 3].
+The binary sequence was [1, 0, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 0, 1, 0, 0, 1, 1].
+The maximum number of companies you could buy stocks from was 5.
+The groupings was 10.
+
+Short ['ENLV', 'KOLD', 'NRGD', 'SOXS'] stocks with an R-squared value of 0.86519.
+The balance dropped to $122.73 over 50 days starting from $300 giving a 59.09% decrease.
+The decimal sequence was [0, -5, -5, 6, -3, 6, -1, -3, 2, 2, 3, -5, 5, 1, 5, 0, 1, -6, 4, -3].
+The binary sequence was [0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0].
+The maximum number of companies you could buy stocks from was 5.
+The groupings was 8.
+
+Stocks had a minimum daily dollar volume of 260670 over the past year.

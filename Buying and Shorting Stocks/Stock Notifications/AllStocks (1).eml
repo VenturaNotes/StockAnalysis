@@ -1,0 +1,25 @@
+Bcc: venturanotes@gmail.com
+Return-Path: <venturanotes@gmail.com>
+Received: from HP.2202.n116flats.amhr.ma.wtsky.net ([2605:ad80:80:c48:88af:3944:8d51:7f70])
+        by smtp.gmail.com with ESMTPSA id c3-20020ac87d83000000b002e1d1b3df15sm19666475qtd.44.2022.04.08.12.37.17
+        for <venturanotes@gmail.com>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Fri, 08 Apr 2022 12:37:18 -0700 (PDT)
+Message-ID: <62508eee.1c69fb81.62c4b.392d@mx.google.com>
+Date: Fri, 08 Apr 2022 12:37:18 -0700 (PDT)
+From: venturanotes@gmail.com
+Subject: AllStocks
+
+Buy ['BDRY'] call options with an R-squared value of 0.76986.
+The balance rose to $1070.61 over 50 days starting from $300 giving a 256.87% increase.
+The decimal sequence was [3, 5, -1, -2, -5, -3, -2, -7, -7, 5, -1, 2, 3, 4, -7, 0, -2, -7, -1, 1].
+The binary sequence was [1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 1, 0, 1, 0, 0, 0, 1].
+The maximum number of companies you could buy stocks from was 10.
+The groupings was 10.
+
+Buy ['GRCL'] put options with an R-squared value of 0.68863.
+The balance dropped to $146.26 over 50 days starting from $300 giving a 51.25% decrease.
+The decimal sequence was [7, -3, 0, -6, -7, 2, 7, 6, -1, -7, 0, 3, 1, -6, 7, -3, 0, 0, 7, -6].
+The binary sequence was [1, 0, 0, 0, 0, 1, 1, 1, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0].
+The maximum number of companies you could buy stocks from was 8.
+The groupings was 10.

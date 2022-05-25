@@ -1,0 +1,25 @@
+Bcc: venturanotes@gmail.com
+Return-Path: <venturanotes@gmail.com>
+Received: from HP.2202.n116flats.amhr.ma.wtsky.net ([2605:ad80:80:c48:29d7:c566:c040:a7d])
+        by smtp.gmail.com with ESMTPSA id f14-20020ac87f0e000000b002f28b077974sm4022384qtk.87.2022.04.21.12.37.24
+        for <venturanotes@gmail.com>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Thu, 21 Apr 2022 12:37:24 -0700 (PDT)
+Message-ID: <6261b274.1c69fb81.262b1.d01a@mx.google.com>
+Date: Thu, 21 Apr 2022 12:37:24 -0700 (PDT)
+From: venturanotes@gmail.com
+Subject: AllStocks
+
+Buy ['URG', 'RUBY'] stocks with an R-squared value of 0.64872.
+The balance rose to $1287.6 over 50 days starting from $300 giving a 329.2% increase.
+The decimal sequence was [0, 5, -4, -7, -1, -6, -2, 1, -2, 4, 1, 1, -4, 6, 2, 7, -3, 4, 1, -5].
+The binary sequence was [0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 0].
+The maximum number of companies you could buy stocks from was 5.
+The groupings was 10.
+
+Short ['SSG', 'BERZ', 'FNGD', 'SQQQ', 'WEBS'] stocks with an R-squared value of 0.90645.
+The balance dropped to $129.1 over 50 days starting from $300 giving a 56.97% decrease.
+The decimal sequence was [6, 0, -3, -5, 0, -6, 5, -5, 0, -6, -2, 3, 0, 0, 4, 0, 4, 0, 0, 0].
+The binary sequence was [1, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 1].
+The maximum number of companies you could buy stocks from was 5.
+The groupings was 10.

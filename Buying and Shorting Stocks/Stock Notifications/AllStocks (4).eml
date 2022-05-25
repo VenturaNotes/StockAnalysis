@@ -1,0 +1,25 @@
+Bcc: venturanotes@gmail.com
+Return-Path: <venturanotes@gmail.com>
+Received: from HP.2202.n116flats.amhr.ma.wtsky.net ([2605:ad80:80:c48:1420:b3dc:fb19:a421])
+        by smtp.gmail.com with ESMTPSA id bi29-20020a05620a319d00b0069c3f6adc18sm3058906qkb.22.2022.04.13.12.37.04
+        for <venturanotes@gmail.com>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Wed, 13 Apr 2022 12:37:05 -0700 (PDT)
+Message-ID: <62572661.1c69fb81.67a4f.1d90@mx.google.com>
+Date: Wed, 13 Apr 2022 12:37:05 -0700 (PDT)
+From: venturanotes@gmail.com
+Subject: AllStocks
+
+Buy ['LGVN'] call options with an R-squared value of 0.62584.
+The balance rose to $656.94 over 50 days starting from $300 giving a 118.98% increase.
+The decimal sequence was [-2, 5, -5, -7, 4, -2, -3, 0, -7, -3, -4, 4, 0, -7, 4, -7, 5, -6, -7, -3].
+The binary sequence was [0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0].
+The maximum number of companies you could buy stocks from was 5.
+The groupings was 10.
+
+Buy ['AWH', 'REDU', 'ZYXI'] put options with an R-squared value of 0.78966.
+The balance dropped to $81.62 over 50 days starting from $300 giving a 72.79% decrease.
+The decimal sequence was [3, 5, 4, 6, 0, 3, 4, -7, 2, 7, 7, 3, -6, 0, 3, 6, 7, 0, 4, -7].
+The binary sequence was [1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0].
+The maximum number of companies you could buy stocks from was 8.
+The groupings was 9.

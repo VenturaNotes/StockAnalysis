@@ -1,0 +1,27 @@
+Bcc: venturanotes@gmail.com
+Return-Path: <venturanotes@gmail.com>
+Received: from HP.2202.n116flats.amhr.ma.wtsky.net ([2605:ad80:80:c48:e98c:76d1:d58c:5ffd])
+        by smtp.gmail.com with ESMTPSA id h22-20020ac85156000000b002f39b99f68esm1253915qtn.40.2022.05.05.12.35.50
+        for <venturanotes@gmail.com>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Thu, 05 May 2022 12:35:51 -0700 (PDT)
+Message-ID: <62742717.1c69fb81.7c54d.73be@mx.google.com>
+Date: Thu, 05 May 2022 12:35:51 -0700 (PDT)
+From: venturanotes@gmail.com
+Subject: AllStocks
+
+Buy ['MNTV', 'PAVM', 'QNST'] stocks with an R-squared value of 0.70062.
+The balance rose to $742.95 over 50 days starting from $300 giving a 147.65% increase.
+The decimal sequence was [0, 0, -5, -4, -5, 7, -6, 2, -1, -7, -1, -7, 6, -4, -7, 7, 4, -1, 3, -5].
+The binary sequence was [1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 1, 0].
+The maximum number of companies you could buy stocks from was 9.
+The groupings was 10.
+
+Short ['BVS', 'HCM', 'XCUR'] stocks with an R-squared value of 0.86077.
+The balance dropped to $96.13 over 50 days starting from $300 giving a 67.96% decrease.
+The decimal sequence was [-2, -5, 2, -7, 1, 2, -2, -6, -3, -2, 3, 0, 2, -3, 2, 4, -4, -2, 3, 0].
+The binary sequence was [0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 1, 1, 0, 0, 1, 1].
+The maximum number of companies you could buy stocks from was 6.
+The groupings was 10.
+
+Stocks had a minimum daily dollar volume of 260670 over the past year.

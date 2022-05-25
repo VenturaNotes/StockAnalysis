@@ -1,0 +1,25 @@
+Bcc: venturanotes@gmail.com
+Return-Path: <venturanotes@gmail.com>
+Received: from HP.2202.n116flats.amhr.ma.wtsky.net ([2605:ad80:80:c48:5003:7073:995d:ee18])
+        by smtp.gmail.com with ESMTPSA id p16-20020a05622a13d000b002e227782e9asm25507760qtk.14.2022.04.11.12.37.30
+        for <venturanotes@gmail.com>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Mon, 11 Apr 2022 12:37:31 -0700 (PDT)
+Message-ID: <6254837b.1c69fb81.a3b6e.aaaf@mx.google.com>
+Date: Mon, 11 Apr 2022 12:37:31 -0700 (PDT)
+From: venturanotes@gmail.com
+Subject: AllStocks
+
+Buy ['BTB', 'PTE', 'APTX', 'BCYC', 'FLNT', 'MJNA'] call options with an R-squared value of 0.72178.
+The balance rose to $656.63 over 50 days starting from $300 giving a 118.88% increase.
+The decimal sequence was [-1, 3, -7, -2, 2, -2, -6, -7, 4, -6, -7, -6, 2, 3, -1, -4, -4, 4, 0, 3].
+The binary sequence was [0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1].
+The maximum number of companies you could buy stocks from was 7.
+The groupings was 10.
+
+Buy ['NRP', 'HIBB', 'LYRA', 'MDVL', 'RETL'] put options with an R-squared value of 0.80906.
+The balance dropped to $135.47 over 50 days starting from $300 giving a 54.84% decrease.
+The decimal sequence was [1, 3, 0, -4, 0, 6, 1, 0, -1, 5, 1, 6, -4, 0, -2, -6, -5, -4, -5, 0].
+The binary sequence was [1, 1, 1, 0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1].
+The maximum number of companies you could buy stocks from was 5.
+The groupings was 8.

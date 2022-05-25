@@ -1,0 +1,25 @@
+Bcc: venturanotes@gmail.com
+Return-Path: <venturanotes@gmail.com>
+Received: from HP.2202.n116flats.amhr.ma.wtsky.net ([2605:ad80:80:c48:6967:3fd5:4e8d:d951])
+        by smtp.gmail.com with ESMTPSA id v5-20020a05622a188500b002f36b69b9absm3591256qtc.50.2022.04.26.12.51.56
+        for <venturanotes@gmail.com>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Tue, 26 Apr 2022 12:51:57 -0700 (PDT)
+Message-ID: <62684d5d.1c69fb81.20d17.5d13@mx.google.com>
+Date: Tue, 26 Apr 2022 12:51:57 -0700 (PDT)
+From: venturanotes@gmail.com
+Subject: AllStocks
+
+Buy ['ATER', 'BRQS', 'GBOX', 'VBLT'] stocks with an R-squared value of 0.75095.
+The balance rose to $607.62 over 50 days starting from $300 giving a 102.54% increase.
+The decimal sequence was [4, 6, -2, -2, -6, 0, 7, 2, -2, -4, -2, 5, -5, 2, -3, 2, 3, 0, 0, -3].
+The binary sequence was [1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0].
+The maximum number of companies you could buy stocks from was 7.
+The groupings was 10.
+
+Short ['NAT', 'UCO', 'BDSX', 'CRXT', 'EDRY'] stocks with an R-squared value of 0.83433.
+The balance dropped to $132.64 over 50 days starting from $300 giving a 55.79% decrease.
+The decimal sequence was [2, -2, -2, 0, 1, 7, -1, 3, 1, 2, -7, -3, 0, -2, 6, 4, -7, -2, 6, -4].
+The binary sequence was [1, 0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 0, 1, 0].
+The maximum number of companies you could buy stocks from was 5.
+The groupings was 10.
